@@ -7,7 +7,7 @@ namespace Gambling
         static void Main()
         {
             Console.WriteLine("Welcome to gambler");
-            Gambler gmb = new Gambler();
+            Program gmb = new Program();
             gmb.StartGame();
 
 
